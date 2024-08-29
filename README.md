@@ -1,5 +1,5 @@
-# Codedex Challenge Pack
-## ⭐️ Food Ratings
+# ⭐️ Food Ratings - Codedex Challenge Pack
+
 In a five-star restaurant review system (⭐️⭐️⭐️⭐️⭐️), the stars typically represent the different levels of satisfaction.
 
 But what does each of the stars mean?
